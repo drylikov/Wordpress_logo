@@ -4,7 +4,7 @@ Responsive WordPress logo using HTML and CSS .
 
 [Visit WordPress website](https://wordpress.com)
 
-[Visit design source](https://dribbble.com/shots/25922927-Wordpress-logo)
+[Visit design source]()
 
 <div align="center">
    <img src="screenshot.png" width="800" />
